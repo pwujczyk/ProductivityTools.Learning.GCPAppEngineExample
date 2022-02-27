@@ -25,7 +25,9 @@ Install requirements
 pip install -r requirements.txt
 ```
 
-Run the application
+Run the application (http://localhost:8080/)
 ```
 pythom main.py
 ```
+
+<img src="https://drive.google.com/file/d/1HzpexkSoc1QmfJBRdwWuKhUSz-ZnqdJM/view"/>
