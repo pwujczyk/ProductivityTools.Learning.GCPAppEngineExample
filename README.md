@@ -29,5 +29,4 @@ Run the application (http://localhost:8080/)
 ```
 pythom main.py
 ```
-![fdsa](https://drive.google.com/file/d/1HzpexkSoc1QmfJBRdwWuKhUSz-ZnqdJM/view)
-<img src="https://drive.google.com/file/d/1HzpexkSoc1QmfJBRdwWuKhUSz-ZnqdJM/view"/>
+![Arch](Images/Arch.png)
