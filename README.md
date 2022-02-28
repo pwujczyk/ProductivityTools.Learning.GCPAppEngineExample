@@ -30,3 +30,8 @@ Run the application (http://localhost:8080/)
 pythom main.py
 ```
 ![Arch](Images/Arch.png)
+
+deploy code
+```
+gcloud app deploy
+```
