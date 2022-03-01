@@ -31,7 +31,19 @@ pythom main.py
 ```
 ![Arch](Images/Arch.png)
 
-deploy code
+Create app
+```
+gcloud app create
+```
+
+- Enable cloud build API
+
+Deploy code
 ```
 gcloud app deploy
+```
+
+Browse
+```
+gcloud app browse
 ```
